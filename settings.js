@@ -38,13 +38,13 @@ global.premium = ['94772830536'] //Change it ඔබට කැමතිනම් 
 global.pengguna = '𝗡𝗶𝘀𝗵𝗲𝗻' // Your name ඔබේ නම 
 global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = '𝗡𝗶𝘀𝗵𝗲𝗻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
+global.packname = 'Red Blacky Sticker' // Sticker package name 
 global.author = 'Nishen' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති '𝑅𝑒𝑑𝐵𝑙𝑎𝑐𝑘𝑦 𝒲𝒽𝒶𝓉𝓈𝒶𝓅𝓅 𝒷ℴ𝓉 𝗢𝘄𝗻𝗲𝗿 𝗻𝗶𝘀𝗵𝗲𝗻' මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
+global.alivelogo = `https://telegra.ph/Red-Blacky-07-06`
 global.alive =`Hello i am alive now
 
 Download song type .yt 
