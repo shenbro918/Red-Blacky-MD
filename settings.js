@@ -33,17 +33,17 @@ global.APIKeys = {
 
 //other
 global.owner = ['94772830536'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['94772830536'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94772830536'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = '𝗡𝗶𝘀𝗵𝗲𝗻' // Your name ඔබේ නම 
 global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = '𝗡𝗶𝘀𝗵𝗲𝗻' //ownernama,ownername
 global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.author = 'Nishen' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
+// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති '𝑅𝑒𝑑𝐵𝑙𝑎𝑐𝑘𝑦 𝒲𝒽𝒶𝓉𝓈𝒶𝓅𝓅 𝒷ℴ𝓉 𝗢𝘄𝗻𝗲𝗿 𝗻𝗶𝘀𝗵𝗲𝗻' මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
 global.alive =`Hello i am alive now
 
@@ -60,16 +60,16 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝑮𝒆𝒏𝒆𝒓𝒂𝒕𝒆𝒅 𝒃𝒚 𝒓𝒆𝒅 𝑩𝒍𝒂𝒄𝒌𝒚`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
     botAdmin: 'Bot must be admin neh!',
-    owner: 'This cmd is for Elisa bot owner only',
+    owner: 'This cmd is for Blcky bot owner only',
     group: 'oooh sorry this cmd is for groups only!',
     private: 'goossssh it can only used in dms!',
     bot: 'This cmd  its only for the bot host',
-    wait: 'Wait Elisa bot processing ',
+    wait: 'Wait Blacky bot processing ',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 global.limitawal = {
