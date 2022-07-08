@@ -36,7 +36,7 @@ global.owner = ['94772830536'] // Owner number , (අයිතිකරුගේ
 global.pemilik = ['94772830536'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94772830536'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = '𝗡𝗶𝘀𝗵𝗲𝗻' // Your name ඔබේ නම 
-global.botnma = '🎯𝑟𝑒𝑑 𝑏𝑙𝑎𝑐𝑘𝑦 𝑏𝑜𝑡🎯' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.botnma = '🎯𝑄𝑢𝑒𝑒𝑛 𝐸𝑙𝑖𝑠𝑎🎯' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = '𝗡𝗶𝘀𝗵𝗲𝗻' //ownernama,ownername
 global.packname = 'Red Blacky Sticker' // Sticker package name 
 global.author = 'Nishen' // Sticker Autor name 
@@ -44,7 +44,7 @@ global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති '𝑅𝑒𝑑𝐵𝑙𝑎𝑐𝑘𝑦 𝒲𝒽𝒶𝓉𝓈𝒶𝓅𝓅 𝒷ℴ𝓉 𝗢𝘄𝗻𝗲𝗿 𝗻𝗶𝘀𝗵𝗲𝗻' මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph/Red-Blacky-07-06`
+global.alivelogo = `https://telegra.ph/HHzhs-07-08`
 global.alive =`Hello i am alive now
 
 Download song type .yt 
@@ -60,7 +60,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝑮𝒆𝒏𝒆𝒓𝒂𝒕𝒆𝒅 𝒃𝒚 𝒓𝒆𝒅 𝑩𝒍𝒂𝒄𝒌𝒚`
+global.cap = `© 𝑮𝒆𝒏𝒆𝒓𝒂𝒕𝒆𝒅 𝒃𝒚 𝑄𝑢𝑒𝑒𝑛 𝑎𝑙𝑖𝑠𝑎`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
